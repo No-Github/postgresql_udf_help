@@ -36,3 +36,7 @@ SELECT * FROM cmd_exec;
 ## 参考
 - https://github.com/sqlmapproject/udfhack
 - [渗透中利用postgresql getshell](https://jianfensec.com/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/%E6%B8%97%E9%80%8F%E4%B8%AD%E5%88%A9%E7%94%A8postgresql%20getshell/)
+
+---
+
+> create by ffffffff0x
